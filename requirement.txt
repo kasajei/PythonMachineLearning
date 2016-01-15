@@ -38,7 +38,6 @@ scipy==0.16.1
 seaborn==0.6.0
 simplegeneric==0.8.1
 six==1.10.0
-tensorflow==0.6.0
 terminado==0.5
 Theano==0.7.0
 tornado==4.1
