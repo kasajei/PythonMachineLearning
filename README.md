@@ -26,6 +26,7 @@ virtualenv -p ~/.pyenv/versions/3.4.3/bin/python3.4 env
 
 ```
 pip install -r requirements.txt
+pip install --upgrade https://storage.googleapis.com/tensorflow/mac/tensorflow-0.6.0-py3-none-any.whl
 ipython notebook
 ```
 
