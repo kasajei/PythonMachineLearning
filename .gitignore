@@ -20,3 +20,6 @@ env/
 *.iws
 
 .envrc
+
+## image file dir
+ImageNet/img/
